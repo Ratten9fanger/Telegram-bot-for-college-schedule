@@ -144,7 +144,7 @@ VI пара:
   17:20 - 18:40
 """
 
-bot = Bot('7565630801:AAEJS3zZtetuZL2AW3Pit-QYz4ijVb9obuk')
+bot = Bot('token')
 dp = Dispatcher(bot)
 
 # Создаем клавиатуру
